@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  background: #ffab78;
+}
+
+main {
+  background: rgba(255, 172, 120, 0.6823529412);
+  padding: 50px;
+}
+
+footer {
+  background: #f96103;
+}
+
+main p {
+  font-size: 16px;
+}/*# sourceMappingURL=style.css.map */

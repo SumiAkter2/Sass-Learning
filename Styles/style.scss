@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+// variable declare:
+$header-bgcolor:#ffab78;
+$main-bgcolor:#ffac78ae;
+$footer-bgcolor:#f96103;
+$para-fontsize:16px;
+$padding : 50px;
+
+
+header{
+    background: $header-bgcolor;
+}
+main{
+    background: $main-bgcolor;
+    padding: $padding;
+}
+footer{
+    background: $footer-bgcolor;
+}
+main p{
+    font-size: $para-fontsize;
+}
